@@ -1,0 +1,12 @@
+{
+  "name": "aula-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "2.1": "ts-node ./src/2_1_Enun_Familia.md"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

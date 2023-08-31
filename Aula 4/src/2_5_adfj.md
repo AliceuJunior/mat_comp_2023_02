@@ -1,0 +1,1 @@
+Definicao recursiva: {Xk | X1 =2 e Xk == 3Xk-1 para k>=1}
